@@ -7,7 +7,7 @@
 
 👨‍🎓: &nbsp;Образование - Сибирский государственный университет телекоммуникаций и информатики, бакалавр "Информатика и вычислительная техника"
 
-⭐: &nbsp;Пет-проекты - [Telegram-бот](https://github.com/Arty3m/schedule_bot_univer_practice) [Aiogram] + его аналог для VK, интерент-магазин комплектующих для ПК [Flask], [API для авторизации по JWT-токену](https://github.com/Arty3m/homework_ylab/tree/master/homework_4) [FastAPI], [API для работы с меню ресторана](https://github.com/Arty3m/ylab_2023-hw4) [FastAPI]
+⭐: &nbsp;Пет-проекты - [Telegram-бот](https://github.com/Arty3m/schedule_bot_univer_practice) [Aiogram] + его аналог для VK, [интерент-магазин комплектующих для ПК](https://kolbun-shop.onrender.com) [Flask], [API для авторизации по JWT-токену](https://github.com/Arty3m/homework_ylab/tree/master/homework_4) [FastAPI], [API для работы с меню ресторана](https://github.com/Arty3m/ylab_2023-hw4) [FastAPI]
 
 ---
 
